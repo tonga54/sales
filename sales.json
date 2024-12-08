@@ -658,17 +658,5 @@
         "monto": 340.0,
         "tipo_pago": "CASH",
         "id_operacion": 80424449853
-    },
-    {
-        "fecha": "2024-06-15T20:39:02.000-03:00",
-        "monto": 42.0,
-        "tipo_pago": "CREDIT",
-        "id_operacion": 80684923242
-    },
-    {
-        "fecha": "2024-06-15T20:36:09.000-03:00",
-        "monto": 340.0,
-        "tipo_pago": "CREDIT",
-        "id_operacion": 80684926676
     }
 ]
