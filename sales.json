@@ -652,11 +652,5 @@
         "monto": 39.44,
         "tipo_pago": "CREDIT",
         "id_operacion": 80684923242
-    },
-    {
-        "fecha": "2024-06-15T20:36:09.000-03:00",
-        "monto": 319.29,
-        "tipo_pago": "CREDIT",
-        "id_operacion": 80684926676
     }
 ]
