@@ -408,18 +408,6 @@
         "id_operacion": 82270194504
     },
     {
-        "fecha": "2024-07-07T10:15:53.000-03:00",
-        "monto": 70.43,
-        "tipo_pago": "CREDIT",
-        "id_operacion": 81992132101
-    },
-    {
-        "fecha": "2024-07-07T10:15:53.000-03:00",
-        "monto": 70.43,
-        "tipo_pago": "CREDIT",
-        "id_operacion": 81992132101
-    },
-    {
         "fecha": "2024-07-06T20:48:13.000-03:00",
         "monto": 957.88,
         "tipo_pago": "CREDIT",
@@ -658,5 +646,17 @@
         "monto": 319.29,
         "tipo_pago": "CASH",
         "id_operacion": 80424449853
+    },
+    {
+        "fecha": "2024-06-15T20:39:02.000-03:00",
+        "monto": 39.44,
+        "tipo_pago": "CREDIT",
+        "id_operacion": 80684923242
+    },
+    {
+        "fecha": "2024-06-15T20:36:09.000-03:00",
+        "monto": 319.29,
+        "tipo_pago": "CREDIT",
+        "id_operacion": 80684926676
     }
 ]
