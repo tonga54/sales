@@ -1,812 +1,860 @@
 [
     {
-        "id_operacion": 98023595190,
-        "fecha": "2024-12-31T17:10:15.000-03:00",
+        "id_operacion": 100969508722,
+        "fecha": "2025-01-31T21:31:19.000-03:00",
         "monto": 375.64,
         "tipo_pago": "CREDIT"
     },
     {
-        "id_operacion": 97834063004,
-        "fecha": "2024-12-29T21:02:28.000-03:00",
-        "monto": 375.64,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 97825937332,
-        "fecha": "2024-12-29T19:12:21.000-03:00",
-        "monto": 713.72,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 97821133242,
-        "fecha": "2024-12-29T17:53:04.000-03:00",
-        "monto": 753.16,
+        "id_operacion": 100581265869,
+        "fecha": "2025-01-31T19:28:35.000-03:00",
+        "monto": 1048.04,
         "tipo_pago": "CREDIT"
     },
     {
-        "id_operacion": 97423799797,
-        "fecha": "2024-12-29T01:03:03.000-03:00",
-        "monto": 375.64,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 97739340890,
-        "fecha": "2024-12-28T16:46:31.000-03:00",
-        "monto": 713.72,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 97721015454,
-        "fecha": "2024-12-28T13:09:17.000-03:00",
-        "monto": 328.68,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 97671546842,
-        "fecha": "2024-12-27T20:26:20.000-03:00",
-        "monto": 172.79,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 97665307358,
-        "fecha": "2024-12-27T19:24:55.000-03:00",
+        "id_operacion": 100402132503,
+        "fecha": "2025-01-30T01:04:26.000-03:00",
         "monto": 375.64,
         "tipo_pago": "CREDIT"
     },
     {
-        "id_operacion": 97308961357,
-        "fecha": "2024-12-27T19:09:36.000-03:00",
-        "monto": 713.72,
+        "id_operacion": 100393429225,
+        "fecha": "2025-01-29T22:06:54.000-03:00",
+        "monto": 375.64,
         "tipo_pago": "CREDIT"
     },
     {
-        "id_operacion": 97655689654,
-        "fecha": "2024-12-27T17:58:08.000-03:00",
-        "monto": 753.16,
+        "id_operacion": 100759648868,
+        "fecha": "2025-01-29T20:36:08.000-03:00",
+        "monto": 1048.04,
         "tipo_pago": "CREDIT"
     },
     {
-        "id_operacion": 97636590316,
-        "fecha": "2024-12-27T14:33:51.000-03:00",
-        "monto": 624.5,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 97275596177,
-        "fecha": "2024-12-27T13:21:19.000-03:00",
-        "monto": 957.88,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 97256015133,
-        "fecha": "2024-12-27T10:38:06.000-03:00",
-        "monto": 328.68,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 97585355468,
-        "fecha": "2024-12-27T00:11:33.000-03:00",
+        "id_operacion": 100757413342,
+        "fecha": "2025-01-29T20:15:06.000-03:00",
         "monto": 375.64,
         "tipo_pago": "CASH"
     },
     {
-        "id_operacion": 97567153650,
-        "fecha": "2024-12-26T19:53:48.000-03:00",
-        "monto": 375.64,
+        "id_operacion": 100747207726,
+        "fecha": "2025-01-29T18:25:37.000-03:00",
+        "monto": 1197.35,
         "tipo_pago": "CASH"
     },
     {
-        "id_operacion": 97211746795,
-        "fecha": "2024-12-26T19:34:42.000-03:00",
-        "monto": 713.72,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 97170552977,
-        "fecha": "2024-12-26T12:28:16.000-03:00",
-        "monto": 753.16,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 97131075051,
-        "fecha": "2024-12-25T21:50:43.000-03:00",
-        "monto": 166.22,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 97123389507,
-        "fecha": "2024-12-25T19:27:50.000-03:00",
-        "monto": 66.68,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 97121397009,
-        "fecha": "2024-12-25T18:47:37.000-03:00",
-        "monto": 713.72,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 97473658622,
-        "fecha": "2024-12-25T18:28:04.000-03:00",
-        "monto": 713.72,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 97467956740,
-        "fecha": "2024-12-25T16:17:43.000-03:00",
-        "monto": 739.07,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 97094363077,
-        "fecha": "2024-12-25T02:18:18.000-03:00",
-        "monto": 375.64,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 97446137834,
-        "fecha": "2024-12-25T01:58:33.000-03:00",
-        "monto": 375.64,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 97062569371,
-        "fecha": "2024-12-24T16:45:12.000-03:00",
+        "id_operacion": 100648519412,
+        "fecha": "2025-01-28T17:41:17.000-03:00",
         "monto": 60.1,
         "tipo_pago": "CASH"
     },
     {
-        "id_operacion": 97407074732,
-        "fecha": "2024-12-24T15:21:13.000-03:00",
-        "monto": 328.68,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 97050047005,
-        "fecha": "2024-12-24T14:38:12.000-03:00",
-        "monto": 713.72,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 97047077793,
-        "fecha": "2024-12-24T14:19:32.000-03:00",
-        "monto": 328.68,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 97271820466,
-        "fecha": "2024-12-23T12:44:31.000-03:00",
-        "monto": 1014.23,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 96876476381,
-        "fecha": "2024-12-23T00:30:54.000-03:00",
-        "monto": 375.64,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 97213375902,
-        "fecha": "2024-12-22T20:49:09.000-03:00",
-        "monto": 713.72,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 96852370827,
-        "fecha": "2024-12-22T18:49:40.000-03:00",
-        "monto": 66.68,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 97200130470,
-        "fecha": "2024-12-22T17:57:39.000-03:00",
-        "monto": 375.64,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 96846939595,
-        "fecha": "2024-12-22T17:29:53.000-03:00",
-        "monto": 126.78,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 97194888114,
-        "fecha": "2024-12-22T16:37:34.000-03:00",
-        "monto": 713.72,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 96802658991,
-        "fecha": "2024-12-22T03:29:20.000-03:00",
+        "id_operacion": 100587532492,
+        "fecha": "2025-01-28T03:05:46.000-03:00",
         "monto": 55.41,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 96802804499,
-        "fecha": "2024-12-22T03:20:43.000-03:00",
-        "monto": 102.36,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 96802910145,
-        "fecha": "2024-12-22T03:18:20.000-03:00",
-        "monto": 375.64,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 96767006899,
-        "fecha": "2024-12-21T18:52:12.000-03:00",
-        "monto": 375.64,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 97089080760,
-        "fecha": "2024-12-21T13:53:31.000-03:00",
-        "monto": 375.64,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 97081412592,
-        "fecha": "2024-12-21T12:48:20.000-03:00",
-        "monto": 375.64,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 97075476042,
-        "fecha": "2024-12-21T12:07:21.000-03:00",
-        "monto": 624.5,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 97069246120,
-        "fecha": "2024-12-21T11:06:06.000-03:00",
-        "monto": 887.45,
         "tipo_pago": "CASH"
     },
     {
-        "id_operacion": 96716806421,
-        "fecha": "2024-12-21T10:50:18.000-03:00",
-        "monto": 624.5,
-        "tipo_pago": "CREDIT"
+        "id_operacion": 100215076659,
+        "fecha": "2025-01-28T02:01:03.000-03:00",
+        "monto": 375.64,
+        "tipo_pago": "CASH"
     },
     {
-        "id_operacion": 96705942029,
-        "fecha": "2024-12-21T08:32:18.000-03:00",
+        "id_operacion": 100586544924,
+        "fecha": "2025-01-28T02:00:42.000-03:00",
+        "monto": 375.64,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 100532717590,
+        "fecha": "2025-01-27T13:45:51.000-03:00",
         "monto": 713.72,
         "tipo_pago": "CREDIT"
     },
     {
-        "id_operacion": 96689968265,
-        "fecha": "2024-12-20T23:58:07.000-03:00",
-        "monto": 375.64,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 96682119129,
-        "fecha": "2024-12-20T22:25:14.000-03:00",
-        "monto": 375.64,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 97009071854,
-        "fecha": "2024-12-20T19:07:00.000-03:00",
-        "monto": 375.64,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 97007468812,
-        "fecha": "2024-12-20T18:47:14.000-03:00",
-        "monto": 713.72,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 96985566334,
-        "fecha": "2024-12-20T15:42:32.000-03:00",
-        "monto": 133.35,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 96880027698,
-        "fecha": "2024-12-19T18:08:08.000-03:00",
-        "monto": 1117.53,
+        "id_operacion": 100465066634,
+        "fecha": "2025-01-26T17:30:48.000-03:00",
+        "monto": 120.2,
         "tipo_pago": "CREDIT"
     },
     {
-        "id_operacion": 96865520020,
-        "fecha": "2024-12-19T15:53:04.000-03:00",
+        "id_operacion": 100463314130,
+        "fecha": "2025-01-26T17:01:24.000-03:00",
+        "monto": 375.64,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 100088798573,
+        "fecha": "2025-01-26T15:52:17.000-03:00",
         "monto": 328.68,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 96512434391,
-        "fecha": "2024-12-19T15:10:44.000-03:00",
-        "monto": 624.5,
         "tipo_pago": "CREDIT"
     },
     {
-        "id_operacion": 96494134181,
-        "fecha": "2024-12-19T12:26:43.000-03:00",
-        "monto": 375.64,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 96478893735,
-        "fecha": "2024-12-19T10:22:50.000-03:00",
-        "monto": 713.72,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 96792009966,
-        "fecha": "2024-12-18T21:40:49.000-03:00",
-        "monto": 25.36,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 96791437322,
-        "fecha": "2024-12-18T21:32:35.000-03:00",
-        "monto": 25.36,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 96435997769,
-        "fecha": "2024-12-18T20:31:06.000-03:00",
-        "monto": 713.72,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 96339460935,
-        "fecha": "2024-12-17T23:02:06.000-03:00",
-        "monto": 668.64,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 96678570830,
-        "fecha": "2024-12-17T21:09:06.000-03:00",
-        "monto": 713.72,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 96298742759,
-        "fecha": "2024-12-17T16:16:58.000-03:00",
-        "monto": 328.68,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 96610776050,
-        "fecha": "2024-12-17T10:55:23.000-03:00",
-        "monto": 624.5,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 96570114606,
-        "fecha": "2024-12-16T21:08:55.000-03:00",
-        "monto": 1126.92,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 96198949275,
-        "fecha": "2024-12-16T17:35:08.000-03:00",
-        "monto": 415.08,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 96475350170,
-        "fecha": "2024-12-16T01:18:51.000-03:00",
+        "id_operacion": 100276252512,
+        "fecha": "2025-01-24T13:03:02.000-03:00",
         "monto": 375.64,
         "tipo_pago": "CASH"
     },
     {
-        "id_operacion": 96456509980,
-        "fecha": "2024-12-15T20:29:51.000-03:00",
-        "monto": 166.22,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 96445383394,
-        "fecha": "2024-12-15T17:53:47.000-03:00",
+        "id_operacion": 99855981553,
+        "fecha": "2025-01-23T21:52:29.000-03:00",
         "monto": 375.64,
         "tipo_pago": "CASH"
     },
     {
-        "id_operacion": 96444683514,
-        "fecha": "2024-12-15T17:44:25.000-03:00",
+        "id_operacion": 100219192346,
+        "fecha": "2025-01-23T20:38:02.000-03:00",
         "monto": 375.64,
         "tipo_pago": "CASH"
     },
     {
-        "id_operacion": 96444481712,
-        "fecha": "2024-12-15T17:43:21.000-03:00",
-        "monto": 375.64,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 96093980365,
-        "fecha": "2024-12-15T16:38:05.000-03:00",
-        "monto": 713.72,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 96085272905,
-        "fecha": "2024-12-15T14:24:41.000-03:00",
-        "monto": 997.32,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 96048236507,
-        "fecha": "2024-12-14T23:57:38.000-03:00",
-        "monto": 713.72,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 96390984190,
-        "fecha": "2024-12-14T22:54:25.000-03:00",
+        "id_operacion": 100198877264,
+        "fecha": "2025-01-23T17:11:11.000-03:00",
         "monto": 66.68,
         "tipo_pago": "CREDIT"
     },
     {
-        "id_operacion": 96042743961,
-        "fecha": "2024-12-14T22:40:42.000-03:00",
-        "monto": 375.64,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 96037581881,
-        "fecha": "2024-12-14T21:35:18.000-03:00",
-        "monto": 753.16,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 96032026327,
-        "fecha": "2024-12-14T20:33:31.000-03:00",
+        "id_operacion": 99828730809,
+        "fecha": "2025-01-23T16:57:20.000-03:00",
         "monto": 713.72,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 96025393495,
-        "fecha": "2024-12-14T19:36:01.000-03:00",
-        "monto": 375.64,
         "tipo_pago": "CREDIT"
     },
     {
-        "id_operacion": 96368391202,
-        "fecha": "2024-12-14T18:55:37.000-03:00",
-        "monto": 285.49,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 96366329230,
-        "fecha": "2024-12-14T18:39:52.000-03:00",
-        "monto": 713.72,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 96363192796,
-        "fecha": "2024-12-14T18:02:12.000-03:00",
-        "monto": 713.72,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 96300495828,
-        "fecha": "2024-12-14T01:08:16.000-03:00",
-        "monto": 66.68,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 96301276112,
-        "fecha": "2024-12-14T01:07:45.000-03:00",
-        "monto": 60.1,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 96300081380,
-        "fecha": "2024-12-14T00:56:22.000-03:00",
-        "monto": 375.64,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 95946359139,
-        "fecha": "2024-12-13T22:44:39.000-03:00",
-        "monto": 375.64,
+        "id_operacion": 99816609211,
+        "fecha": "2025-01-23T14:25:58.000-03:00",
+        "monto": 328.68,
         "tipo_pago": "CREDIT"
     },
     {
-        "id_operacion": 95942927583,
-        "fecha": "2024-12-13T22:01:09.000-03:00",
+        "id_operacion": 99758022043,
+        "fecha": "2025-01-22T21:40:25.000-03:00",
         "monto": 375.64,
         "tipo_pago": "CASH"
     },
     {
-        "id_operacion": 95917357197,
-        "fecha": "2024-12-13T18:10:50.000-03:00",
-        "monto": 375.64,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 96158679278,
-        "fecha": "2024-12-12T19:15:32.000-03:00",
-        "monto": 375.64,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 95850563522,
-        "fecha": "2024-12-09T22:31:37.000-03:00",
-        "monto": 142.74,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 95846088768,
-        "fecha": "2024-12-09T21:34:37.000-03:00",
-        "monto": 713.72,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 95492103391,
-        "fecha": "2024-12-09T19:43:04.000-03:00",
-        "monto": 713.72,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 95747210894,
-        "fecha": "2024-12-09T00:18:06.000-03:00",
+        "id_operacion": 99754413429,
+        "fecha": "2025-01-22T20:56:15.000-03:00",
         "monto": 375.64,
         "tipo_pago": "CASH"
     },
     {
-        "id_operacion": 95733821322,
-        "fecha": "2024-12-08T20:51:40.000-03:00",
-        "monto": 375.64,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 95391094373,
-        "fecha": "2024-12-08T20:32:44.000-03:00",
-        "monto": 375.64,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 95385111733,
-        "fecha": "2024-12-08T19:26:07.000-03:00",
-        "monto": 102.36,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 95724641262,
-        "fecha": "2024-12-08T19:00:54.000-03:00",
-        "monto": 375.64,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 95369185017,
-        "fecha": "2024-12-08T15:26:23.000-03:00",
-        "monto": 375.64,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 95708751062,
-        "fecha": "2024-12-08T14:58:45.000-03:00",
-        "monto": 375.64,
+        "id_operacion": 99750578085,
+        "fecha": "2025-01-22T20:27:24.000-03:00",
+        "monto": 120.2,
         "tipo_pago": "CASH"
     },
     {
-        "id_operacion": 95698410520,
-        "fecha": "2024-12-08T12:45:11.000-03:00",
-        "monto": 375.64,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 95352095613,
-        "fecha": "2024-12-08T11:49:50.000-03:00",
-        "monto": 624.5,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 95657206980,
-        "fecha": "2024-12-07T21:21:15.000-03:00",
-        "monto": 624.5,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 95300551843,
-        "fecha": "2024-12-07T18:55:27.000-03:00",
-        "monto": 375.64,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 95300226603,
-        "fecha": "2024-12-07T18:46:29.000-03:00",
-        "monto": 375.64,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 95614914886,
-        "fecha": "2024-12-07T14:03:25.000-03:00",
-        "monto": 1126.92,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 95594261462,
-        "fecha": "2024-12-07T11:08:25.000-03:00",
-        "monto": 624.5,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 95224198097,
-        "fecha": "2024-12-06T23:01:50.000-03:00",
-        "monto": 624.5,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 95212703121,
-        "fecha": "2024-12-06T21:08:54.000-03:00",
-        "monto": 375.64,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 95213062263,
-        "fecha": "2024-12-06T21:08:16.000-03:00",
+        "id_operacion": 99747361075,
+        "fecha": "2025-01-22T19:47:24.000-03:00",
         "monto": 415.08,
         "tipo_pago": "CASH"
     },
     {
-        "id_operacion": 95547008696,
-        "fecha": "2024-12-06T20:14:35.000-03:00",
-        "monto": 1126.92,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 95197865859,
-        "fecha": "2024-12-06T19:14:27.000-03:00",
-        "monto": 117.39,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 95194373087,
-        "fecha": "2024-12-06T18:39:50.000-03:00",
+        "id_operacion": 99736453541,
+        "fecha": "2025-01-22T17:58:12.000-03:00",
         "monto": 713.72,
         "tipo_pago": "CASH"
     },
     {
-        "id_operacion": 95472639002,
-        "fecha": "2024-12-06T10:10:22.000-03:00",
-        "monto": 713.72,
+        "id_operacion": 100071021836,
+        "fecha": "2025-01-22T11:55:41.000-03:00",
+        "monto": 328.68,
         "tipo_pago": "CREDIT"
     },
     {
-        "id_operacion": 95362183022,
-        "fecha": "2024-12-05T11:05:07.000-03:00",
-        "monto": 60.1,
+        "id_operacion": 99663972493,
+        "fecha": "2025-01-21T23:08:05.000-03:00",
+        "monto": 2066.02,
         "tipo_pago": "CASH"
     },
     {
-        "id_operacion": 95360423918,
-        "fecha": "2024-12-05T10:54:55.000-03:00",
+        "id_operacion": 100031451390,
+        "fecha": "2025-01-21T23:05:21.000-03:00",
+        "monto": 375.64,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 100026359232,
+        "fecha": "2025-01-21T21:55:36.000-03:00",
+        "monto": 55.41,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 99609540133,
+        "fecha": "2025-01-21T13:06:49.000-03:00",
+        "monto": 328.68,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 99568912443,
+        "fecha": "2025-01-21T01:18:25.000-03:00",
+        "monto": 102.36,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 99567672251,
+        "fecha": "2025-01-21T00:33:42.000-03:00",
+        "monto": 375.64,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 99919804672,
+        "fecha": "2025-01-20T20:47:04.000-03:00",
+        "monto": 375.64,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 99903988288,
+        "fecha": "2025-01-20T18:20:20.000-03:00",
+        "monto": 375.64,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 99459062931,
+        "fecha": "2025-01-19T22:15:13.000-03:00",
+        "monto": 375.64,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 99454624199,
+        "fecha": "2025-01-19T21:05:54.000-03:00",
+        "monto": 749.4,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 99810543496,
+        "fecha": "2025-01-19T18:49:28.000-03:00",
+        "monto": 375.64,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 99427475037,
+        "fecha": "2025-01-19T14:03:23.000-03:00",
+        "monto": 624.5,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 99396561765,
+        "fecha": "2025-01-19T00:16:49.000-03:00",
+        "monto": 328.68,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 99762903456,
+        "fecha": "2025-01-19T00:07:54.000-03:00",
+        "monto": 110.81,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 99394348781,
+        "fecha": "2025-01-18T23:20:52.000-03:00",
+        "monto": 375.64,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 99759555992,
+        "fecha": "2025-01-18T23:08:55.000-03:00",
+        "monto": 713.72,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 99754963356,
+        "fecha": "2025-01-18T22:08:21.000-03:00",
+        "monto": 375.64,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 99707983702,
+        "fecha": "2025-01-18T13:15:47.000-03:00",
+        "monto": 328.68,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 99297621855,
+        "fecha": "2025-01-17T21:46:50.000-03:00",
+        "monto": 415.08,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 99291346585,
+        "fecha": "2025-01-17T20:38:00.000-03:00",
+        "monto": 413.2,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 99269528983,
+        "fecha": "2025-01-17T17:13:53.000-03:00",
+        "monto": 102.36,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 99563129550,
+        "fecha": "2025-01-16T22:52:37.000-03:00",
+        "monto": 413.2,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 99548462236,
+        "fecha": "2025-01-16T20:07:15.000-03:00",
+        "monto": 375.64,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 99179798443,
+        "fecha": "2025-01-16T19:31:03.000-03:00",
+        "monto": 1197.35,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 99173106941,
+        "fecha": "2025-01-16T18:29:35.000-03:00",
+        "monto": 713.72,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 99527540428,
+        "fecha": "2025-01-16T16:38:58.000-03:00",
+        "monto": 375.64,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 99162028451,
+        "fecha": "2025-01-16T16:30:33.000-03:00",
+        "monto": 328.68,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 99084442709,
+        "fecha": "2025-01-15T20:47:24.000-03:00",
+        "monto": 415.08,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 99448568054,
+        "fecha": "2025-01-15T20:45:57.000-03:00",
+        "monto": 375.64,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 99075791967,
+        "fecha": "2025-01-15T19:22:25.000-03:00",
+        "monto": 375.64,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 98997123091,
+        "fecha": "2025-01-15T01:02:12.000-03:00",
+        "monto": 375.64,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 98957969015,
+        "fecha": "2025-01-14T16:40:36.000-03:00",
+        "monto": 375.64,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 98933284433,
+        "fecha": "2025-01-14T12:17:34.000-03:00",
+        "monto": 328.68,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 99281921030,
+        "fecha": "2025-01-14T10:06:27.000-03:00",
+        "monto": 328.68,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 98903539079,
+        "fecha": "2025-01-14T05:03:29.000-03:00",
+        "monto": 49.77,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 98901497355,
+        "fecha": "2025-01-14T04:41:09.000-03:00",
+        "monto": 33.81,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 98901771055,
+        "fecha": "2025-01-14T04:34:55.000-03:00",
+        "monto": 49.77,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 98901528625,
+        "fecha": "2025-01-14T04:00:44.000-03:00",
+        "monto": 375.64,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 99261586704,
+        "fecha": "2025-01-14T01:14:09.000-03:00",
+        "monto": 375.64,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 98875336275,
+        "fecha": "2025-01-13T19:27:04.000-03:00",
+        "monto": 101.42,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 98873415399,
+        "fecha": "2025-01-13T19:18:19.000-03:00",
+        "monto": 102.36,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 99231810544,
+        "fecha": "2025-01-13T18:30:22.000-03:00",
+        "monto": 375.64,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 99229345082,
+        "fecha": "2025-01-13T18:08:53.000-03:00",
+        "monto": 375.64,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 98862410525,
+        "fecha": "2025-01-13T17:23:00.000-03:00",
+        "monto": 375.64,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 99212346874,
+        "fecha": "2025-01-13T14:59:47.000-03:00",
         "monto": 624.5,
         "tipo_pago": "CASH"
     },
     {
-        "id_operacion": 95307684314,
-        "fecha": "2024-12-04T19:26:42.000-03:00",
-        "monto": 713.72,
+        "id_operacion": 99203207318,
+        "fecha": "2025-01-13T13:15:41.000-03:00",
+        "monto": 375.64,
         "tipo_pago": "CASH"
     },
     {
-        "id_operacion": 94877164975,
-        "fecha": "2024-12-03T21:48:22.000-03:00",
-        "monto": 375.64,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 94870656489,
-        "fecha": "2024-12-03T20:31:45.000-03:00",
-        "monto": 375.64,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 94867617093,
-        "fecha": "2024-12-03T20:01:48.000-03:00",
+        "id_operacion": 99150437186,
+        "fecha": "2025-01-12T21:35:21.000-03:00",
         "monto": 66.68,
         "tipo_pago": "CASH"
     },
     {
-        "id_operacion": 95178995098,
-        "fecha": "2024-12-03T15:27:28.000-03:00",
+        "id_operacion": 99149948076,
+        "fecha": "2025-01-12T21:29:25.000-03:00",
+        "monto": 1014.23,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 98786730179,
+        "fecha": "2025-01-12T21:14:12.000-03:00",
+        "monto": 60.1,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 99146415400,
+        "fecha": "2025-01-12T20:45:04.000-03:00",
+        "monto": 102.36,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 99142226490,
+        "fecha": "2025-01-12T19:42:35.000-03:00",
+        "monto": 70.43,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 98779778727,
+        "fecha": "2025-01-12T19:40:34.000-03:00",
+        "monto": 39.44,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 98779762261,
+        "fecha": "2025-01-12T19:39:53.000-03:00",
+        "monto": 39.44,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 99135814458,
+        "fecha": "2025-01-12T18:06:17.000-03:00",
+        "monto": 307.09,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 98773527307,
+        "fecha": "2025-01-12T18:02:17.000-03:00",
+        "monto": 713.72,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 98762222351,
+        "fecha": "2025-01-12T14:46:08.000-03:00",
+        "monto": 328.68,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 98757086921,
+        "fecha": "2025-01-12T13:26:39.000-03:00",
+        "monto": 328.68,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 98757023137,
+        "fecha": "2025-01-12T13:25:46.000-03:00",
+        "monto": 328.68,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 98743348975,
+        "fecha": "2025-01-12T10:22:04.000-03:00",
+        "monto": 328.68,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 98727635927,
+        "fecha": "2025-01-11T23:58:04.000-03:00",
+        "monto": 713.72,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 98724816681,
+        "fecha": "2025-01-11T23:07:41.000-03:00",
+        "monto": 102.36,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 99085530258,
+        "fecha": "2025-01-11T22:49:56.000-03:00",
+        "monto": 713.72,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 99080743370,
+        "fecha": "2025-01-11T21:51:25.000-03:00",
+        "monto": 66.68,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 99074033974,
+        "fecha": "2025-01-11T20:42:30.000-03:00",
+        "monto": 713.72,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 99064439128,
+        "fecha": "2025-01-11T19:04:28.000-03:00",
         "monto": 375.64,
         "tipo_pago": "CASH"
     },
     {
-        "id_operacion": 95142527442,
-        "fecha": "2024-12-03T10:14:17.000-03:00",
+        "id_operacion": 99044793414,
+        "fecha": "2025-01-11T15:16:08.000-03:00",
+        "monto": 328.68,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 98639585597,
+        "fecha": "2025-01-11T01:01:20.000-03:00",
+        "monto": 624.5,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 98989543110,
+        "fecha": "2025-01-10T22:01:27.000-03:00",
+        "monto": 102.36,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 98989034664,
+        "fecha": "2025-01-10T21:55:06.000-03:00",
+        "monto": 375.64,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 98986651564,
+        "fecha": "2025-01-10T21:32:04.000-03:00",
+        "monto": 375.64,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 98985274716,
+        "fecha": "2025-01-10T21:18:50.000-03:00",
+        "monto": 375.64,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 98618335697,
+        "fecha": "2025-01-10T20:30:42.000-03:00",
+        "monto": 375.64,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 98589047169,
+        "fecha": "2025-01-10T16:06:24.000-03:00",
+        "monto": 1341.03,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 98942543284,
+        "fecha": "2025-01-10T14:45:03.000-03:00",
+        "monto": 375.64,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 98572288145,
+        "fecha": "2025-01-10T13:16:08.000-03:00",
+        "monto": 375.64,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 98928688916,
+        "fecha": "2025-01-10T12:36:57.000-03:00",
+        "monto": 1197.35,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 98893205998,
+        "fecha": "2025-01-10T05:10:01.000-03:00",
+        "monto": 499.6,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 98892682678,
+        "fecha": "2025-01-10T04:42:51.000-03:00",
         "monto": 281.73,
         "tipo_pago": "CREDIT"
     },
     {
-        "id_operacion": 95105740194,
-        "fecha": "2024-12-02T20:51:58.000-03:00",
-        "monto": 25.36,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 95104369796,
-        "fecha": "2024-12-02T20:39:26.000-03:00",
-        "monto": 25.36,
+        "id_operacion": 98524279695,
+        "fecha": "2025-01-10T00:04:20.000-03:00",
+        "monto": 375.64,
         "tipo_pago": "CASH"
     },
     {
-        "id_operacion": 95104371052,
-        "fecha": "2024-12-02T20:38:47.000-03:00",
-        "monto": 713.72,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 94750520683,
-        "fecha": "2024-12-02T17:57:00.000-03:00",
-        "monto": 1309.11,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 94735872701,
-        "fecha": "2024-12-02T15:34:43.000-03:00",
+        "id_operacion": 98841250380,
+        "fecha": "2025-01-09T15:56:58.000-03:00",
         "monto": 328.68,
         "tipo_pago": "CREDIT"
     },
     {
-        "id_operacion": 94715885497,
-        "fecha": "2024-12-02T12:23:55.000-03:00",
+        "id_operacion": 98475465923,
+        "fecha": "2025-01-09T15:01:42.000-03:00",
         "monto": 328.68,
         "tipo_pago": "CREDIT"
     },
     {
-        "id_operacion": 95007621354,
-        "fecha": "2024-12-01T22:29:32.000-03:00",
+        "id_operacion": 98810904696,
+        "fecha": "2025-01-09T11:04:53.000-03:00",
+        "monto": 328.68,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 98343361089,
+        "fecha": "2025-01-08T10:54:28.000-03:00",
+        "monto": 624.5,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 98337018463,
+        "fecha": "2025-01-08T09:56:43.000-03:00",
+        "monto": 328.68,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 98310325965,
+        "fecha": "2025-01-07T23:02:21.000-03:00",
+        "monto": 624.5,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 98276130085,
+        "fecha": "2025-01-07T17:22:17.000-03:00",
         "monto": 375.64,
         "tipo_pago": "CASH"
     },
     {
-        "id_operacion": 95000961698,
-        "fecha": "2024-12-01T21:02:56.000-03:00",
+        "id_operacion": 98241828517,
+        "fecha": "2025-01-07T11:55:11.000-03:00",
+        "monto": 328.68,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 98195545915,
+        "fecha": "2025-01-06T21:24:51.000-03:00",
+        "monto": 713.72,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 98191276685,
+        "fecha": "2025-01-06T20:39:00.000-03:00",
         "monto": 713.72,
         "tipo_pago": "CASH"
     },
     {
-        "id_operacion": 94993138138,
-        "fecha": "2024-12-01T19:23:25.000-03:00",
-        "monto": 375.64,
-        "tipo_pago": "CASH"
-    },
-    {
-        "id_operacion": 94985488942,
-        "fecha": "2024-12-01T17:36:05.000-03:00",
-        "monto": 375.64,
+        "id_operacion": 98188584791,
+        "fecha": "2025-01-06T20:11:59.000-03:00",
+        "monto": 1126.92,
         "tipo_pago": "CREDIT"
     },
     {
-        "id_operacion": 94984724752,
-        "fecha": "2024-12-01T17:26:10.000-03:00",
-        "monto": 753.16,
+        "id_operacion": 98187322673,
+        "fecha": "2025-01-06T20:00:17.000-03:00",
+        "monto": 375.64,
         "tipo_pago": "CASH"
     },
     {
-        "id_operacion": 94983824626,
-        "fecha": "2024-12-01T17:15:30.000-03:00",
+        "id_operacion": 98163780701,
+        "fecha": "2025-01-06T16:21:47.000-03:00",
         "monto": 102.36,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 94981724204,
-        "fecha": "2024-12-01T16:40:07.000-03:00",
-        "monto": 375.64,
-        "tipo_pago": "CREDIT"
-    },
-    {
-        "id_operacion": 94943336672,
-        "fecha": "2024-12-01T02:48:10.000-03:00",
-        "monto": 50.71,
         "tipo_pago": "CASH"
     },
     {
-        "id_operacion": 94938288638,
-        "fecha": "2024-12-01T00:23:41.000-03:00",
+        "id_operacion": 98155078965,
+        "fecha": "2025-01-06T14:47:17.000-03:00",
+        "monto": 997.32,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 98441048454,
+        "fecha": "2025-01-05T19:43:27.000-03:00",
+        "monto": 55.41,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 98437938100,
+        "fecha": "2025-01-05T19:13:27.000-03:00",
         "monto": 375.64,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 98435755116,
+        "fecha": "2025-01-05T18:31:16.000-03:00",
+        "monto": 375.64,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 98073556929,
+        "fecha": "2025-01-05T17:12:46.000-03:00",
+        "monto": 713.72,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 98372395534,
+        "fecha": "2025-01-04T20:32:28.000-03:00",
+        "monto": 180.31,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 98367962736,
+        "fecha": "2025-01-04T19:45:38.000-03:00",
+        "monto": 375.64,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 98006578349,
+        "fecha": "2025-01-04T19:00:47.000-03:00",
+        "monto": 375.64,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 98004783173,
+        "fecha": "2025-01-04T18:40:26.000-03:00",
+        "monto": 375.64,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 98360701202,
+        "fecha": "2025-01-04T18:29:04.000-03:00",
+        "monto": 713.72,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 97994345035,
+        "fecha": "2025-01-04T16:41:29.000-03:00",
+        "monto": 713.72,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 98350404520,
+        "fecha": "2025-01-04T16:23:00.000-03:00",
+        "monto": 375.64,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 98302194518,
+        "fecha": "2025-01-04T00:13:08.000-03:00",
+        "monto": 328.68,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 97943917373,
+        "fecha": "2025-01-03T23:58:03.000-03:00",
+        "monto": 375.64,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 97942630749,
+        "fecha": "2025-01-03T23:26:48.000-03:00",
+        "monto": 375.64,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 98282728674,
+        "fecha": "2025-01-03T20:12:44.000-03:00",
+        "monto": 694.93,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 98251781912,
+        "fecha": "2025-01-03T15:13:42.000-03:00",
+        "monto": 694.93,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 97843151667,
+        "fecha": "2025-01-03T00:32:45.000-03:00",
+        "monto": 66.68,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 97840604293,
+        "fecha": "2025-01-02T23:32:55.000-03:00",
+        "monto": 713.72,
+        "tipo_pago": "CREDIT"
+    },
+    {
+        "id_operacion": 97828658123,
+        "fecha": "2025-01-02T20:45:45.000-03:00",
+        "monto": 450.77,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 98098438166,
+        "fecha": "2025-01-01T23:13:27.000-03:00",
+        "monto": 122.08,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 97734695119,
+        "fecha": "2025-01-01T20:35:19.000-03:00",
+        "monto": 55.41,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 97729607901,
+        "fecha": "2025-01-01T19:24:56.000-03:00",
+        "monto": 713.72,
+        "tipo_pago": "CASH"
+    },
+    {
+        "id_operacion": 98084006258,
+        "fecha": "2025-01-01T18:43:53.000-03:00",
+        "monto": 713.72,
         "tipo_pago": "CASH"
     }
 ]
